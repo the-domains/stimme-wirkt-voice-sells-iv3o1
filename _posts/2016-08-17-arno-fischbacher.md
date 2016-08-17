@@ -8,16 +8,14 @@ publisher:
   domain: www.arno-fischbacher.com
 keywords: []
 description: >-
-  Index Blog " Blog-Startseite " Einträge RSS " Kommentare RSS 14. Juni 2016 Vor
-  kurzem im Stimmcoaching. Ein Kunde hatte mich um Feedback zu seinem neuen
-  Video gebeten. Ich saß also da und verfolgte die sehr aufwendig und
-  professionell gemachte Videobotschaft.
+  Arno Fischbacher - Stimm- und Rhetorikcoach, Wirtschaftstrainer, Autor,
+  Speaker, Vorstand und Inhaber der Plattform www.stimme.at
 inLanguage: de
 app_links: []
-isBasedOnUrl: 'http://www.arno-fischbacher.com/blog'
-title: Arno Fischbacher
-datePublished: '2016-08-17T20:31:31.267Z'
-dateModified: '2016-08-17T20:31:02.134Z'
+isBasedOnUrl: 'http://www.arno-fischbacher.com'
+title: 'Arno Fischbacher ::'
+datePublished: '2016-08-17T20:31:47.012Z'
+dateModified: '2016-08-17T20:28:29.328Z'
 via: {}
 starred: false
 sourcePath: _posts/2016-08-17-arno-fischbacher.md
@@ -28,4 +26,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Arno Fischbacher</h1><p>Index Blog " Blog-Startseite " Einträge RSS " Kommentare RSS 14. Juni 2016 Vor kurzem im Stimmcoaching. Ein Kunde hatte mich um Feedback zu seinem neuen Video gebeten. Ich saß also da und verfolgte die sehr aufwendig und professionell gemachte Videobotschaft.</p><img src="http://arno-fischbacher.com/blog/wp-content/uploads/2016/06/BLOG_ILLU_Speech-300x168.jpg" /></article>
+<article style=""><h1>Arno Fischbacher ::</h1><p>Arno Fischbacher - Stimm- und Rhetorikcoach, Wirtschaftstrainer, Autor, Speaker, Vorstand und Inhaber der Plattform www.stimme.at</p><img src="http://www.arno-fischbacher.com/ics/files/bipl_pgs/bpl_00286_01.jpg" /></article>
