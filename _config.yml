@@ -1,4 +1,3 @@
-layout_spectrum: 0.1671846138779074
 typography_spectrum: 0.3980223585385829
 color:
   brandStrength: 0.17087482358328998
@@ -11,8 +10,10 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.1671846138779074
 name: Stimme wirkt. Voice sells!
 navigation:
   - name: Stimme
     url: 'http://www.arno-fischbacher.com '
     type: external
+title: Stimme hat Macht.
