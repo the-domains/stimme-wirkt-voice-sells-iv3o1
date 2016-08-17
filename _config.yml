@@ -11,6 +11,10 @@ color:
     - '#5C6B73'
     - '#253237'
 layout_spectrum: 0.1671846138779074
+author:
+  name: 'Arno Fischbacher '
+  email: arno.fischbacher@stimme.at
+  url: 'http://www.arno-fischbacher.com '
 name: Stimme wirkt. Voice sells!
 navigation:
   - name: Stimme
