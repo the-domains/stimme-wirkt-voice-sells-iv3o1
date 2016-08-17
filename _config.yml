@@ -12,3 +12,7 @@ color:
     - '#5C6B73'
     - '#253237'
 name: Stimme wirkt. Voice sells!
+navigation:
+  - name: Stimme
+    url: 'http://www.arno-fischbacher.com '
+    type: external
