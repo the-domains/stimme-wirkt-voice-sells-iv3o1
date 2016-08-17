@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Stimme hat Macht.]]></title>
         <description><![CDATA[Stimme hat Macht.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/stimme-wirkt-voice-sells-iv3o1/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 20:31:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Aug 2016 20:31:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/stimme-wirkt-voice-sells-iv3o1/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Arno Fischbacher ::]]></title>
+            <description><![CDATA[<article><h1>Arno Fischbacher ::</h1><p>Arno Fischbacher - Stimm- und Rhetorikcoach, Wirtschaftstrainer, Autor, Speaker, Vorstand und Inhaber der Plattform www.stimme.at</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0631ffbb334b1e9e6ac6fb090ac9b667/noop.jpg?input=http%3A%2F%2Fwww.arno-fischbacher.com%2Fics%2Ffiles%2Fbipl_pgs%2Fbpl_00286_01.jpg"></article>]]></description>
+            <link>http://www.arno-fischbacher.com</link>
+            <guid isPermaLink="false">1d0b6efc-f549-4470-a457-2ad9e68a69e8</guid>
+            <pubDate>Wed, 17 Aug 2016 20:31:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Arno Fischbacher]]></title>
             <description><![CDATA[<article><h1>Arno Fischbacher</h1><p>Index Blog " Blog-Startseite " Einträge RSS " Kommentare RSS 14. Juni 2016 Vor kurzem im Stimmcoaching. Ein Kunde hatte mich um Feedback zu seinem neuen Video gebeten. Ich saß also da und verfolgte die sehr aufwendig und professionell gemachte Videobotschaft.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/15cec11a253447a649df706dcc2a1ddf/noop.jpg?input=http%3A%2F%2Farno-fischbacher.com%2Fblog%2Fwp-content%2Fuploads%2F2016%2F06%2FBLOG_ILLU_Speech-300x168.jpg"></article>]]></description>
